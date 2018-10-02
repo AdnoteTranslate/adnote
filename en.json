@@ -723,5 +723,15 @@
     "CLIENTS_WEBHOOK_NAME": "Name",
     "CLIENTS_WEBHOOK_LINK": "Link",
     "CLIENTS_WEBHOOK_NOTIFICATIONS": "Notifications settings",
-    "CLIENTS_WEBHOOK_SHOW_NOTIFICATIONS": "Details"
+    "CLIENTS_WEBHOOK_SHOW_NOTIFICATIONS": "Details",
+    "NOTIFICATIONS_SETTINGS_BARCODE_NEW_DESCRIPTION": "Receive notifications when a new barcode is added",
+    "NOTIFICATIONS_SETTINGS_BARCODE_NEW": "New barcode",
+    "NOTIFICATIONS_TYPES_BARCODE_NEW": "<b>{{username}}</b> added barcode",
+    "NOTIFICATIONS_SETTINGS_BARCODE_UPDATE_DESCRIPTION": "Receive notifications when a barcode is changed",
+    "NOTIFICATIONS_SETTINGS_BARCODE_UPDATE": "Barcode updated",
+    "NOTIFICATIONS_TYPES_BARCODE_UPDATE": "<b>{{username}}</b> updated a barcode",
+    "NOTIFICATIONS_SETTINGS_BARCODE_DELETE_DESCRIPTION": "Receive notifications when a barcode is deleted",
+    "NOTIFICATIONS_SETTINGS_BARCODE_DELETE": "Barcode deleted",
+    "NOTIFICATIONS_TYPES_BARCODE_DELETE": "<b>{{username}}</b> deleted a barcode",
+    "NOTIFICATIONS_BARCODE": "Barcodes"
 }
