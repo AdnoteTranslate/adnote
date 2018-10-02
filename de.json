@@ -723,5 +723,15 @@
     "CLIENTS_WEBHOOK_NAME": "Nazwa",
     "CLIENTS_WEBHOOK_LINK": "Link",
     "CLIENTS_WEBHOOK_NOTIFICATIONS": "Ustawienia powiadomień",
-    "CLIENTS_WEBHOOK_SHOW_NOTIFICATIONS": "Szczegóły"
+    "CLIENTS_WEBHOOK_SHOW_NOTIFICATIONS": "Szczegóły",
+    "NOTIFICATIONS_SETTINGS_BARCODE_NEW_DESCRIPTION": "Otrzymuj powiadomienia gdy zostanie dodany nowy kod kreskowy",
+    "NOTIFICATIONS_SETTINGS_BARCODE_NEW": "Nowy kod kreskowy",
+    "NOTIFICATIONS_TYPES_BARCODE_NEW": "<b>{{username}}</b> dodał nowy kod kreskowy",
+    "NOTIFICATIONS_SETTINGS_BARCODE_UPDATE_DESCRIPTION": "Otrzymuj powiadomienia gdy zostanie zmieniony kod kreskowy",
+    "NOTIFICATIONS_SETTINGS_BARCODE_UPDATE": "Zmieniony kod kreskowy",
+    "NOTIFICATIONS_TYPES_BARCODE_UPDATE": "<b>{{username}}</b> zmienił kod kreskowy",
+    "NOTIFICATIONS_SETTINGS_BARCODE_DELETE_DESCRIPTION": "Otrzymuj powiadomienia gdy zostanie usunięty kod kreskowy",
+    "NOTIFICATIONS_SETTINGS_BARCODE_DELETE": "Usunięty kod kreskowy",
+    "NOTIFICATIONS_TYPES_BARCODE_DELETE": "<b>{{username}}</b> usunął kod kreskowy",
+    "NOTIFICATIONS_BARCODE": "Kody kreskowe"
 }
